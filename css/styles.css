@@ -163,10 +163,6 @@ h1 {
     padding: 120px 0;
 }
 
-.second-section-header {
-    /* необов’язково, якщо не стилізуєш */
-}
-
 .second-section-list {
     display: flex;
     gap: 24px;
