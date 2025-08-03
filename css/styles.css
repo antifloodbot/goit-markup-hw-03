@@ -138,6 +138,10 @@ h1 {
     background-color: #404BBF;
     letter-spacing: 0.04em;
 }
+
+.first-section-container {
+    padding: 188px 0;
+}
 /* #endregion */
 /* #region Second section */
 .second-section-subtitle {
