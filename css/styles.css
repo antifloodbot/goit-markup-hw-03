@@ -230,10 +230,7 @@ h1 {
 .third-section-list-item {
     background-color: #FFFFFF;
     width: calc((100% - 72px) / 4);
-    border-top-left-radius: 0px;
-    border-top-right-radius: 0px;
-    border-top-right-radius: 4px;
-    border-bottom-left-radius: 4px;
+    border-radius: 0px 0px 4px 4px;
 }
 
 .container-name-title {
