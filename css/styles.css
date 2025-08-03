@@ -127,6 +127,10 @@ h1 {
 
 .first-section-order-button {
     display: block;
+    min-width: 169px;
+    height: 56px;
+    border: none;
+    border-radius: 4px;
     background-color: #4D5AE5;
     color: #FFFFFF;
     font-weight: 500;
