@@ -126,6 +126,7 @@ h1 {
 }
 
 .first-section-order-button {
+    display: block;
     background-color: #4D5AE5;
     color: #FFFFFF;
     font-weight: 500;
@@ -142,6 +143,10 @@ h1 {
 
 .first-section-container {
     padding: 188px 0;
+}
+
+.first-section-header {
+    max-width: 496px;
 }
 /* #endregion */
 /* #region Second section */
